@@ -7,12 +7,16 @@ Soal
 3.Tujuan atau kegunaan repository.
 
 4.informasi singkat mengenai kegiatan workshop yang didokumentasikan.
+
   Rangkuman materi yang disampaikan selama workshop.
+
   Poin-poin penting atau pengetahuan baru yang dipelajari saat workshop.
+ 
   Pendapat pribadi tentang Day 1 Proyek Workshop.
 
 
 Jawaban
+
 1.Nama Lengkap : Rafif Airlangga
 
 2.Apa itu Repository? Repository atau Repo ialah storage fundamental di github dimana kalian menyimpan kode, files, dokumentasi,untuk 1 project spesifik, lengkap dengan history revisi dari perubahan yang pernah dibuat memungkinkan banyak collaborators untuk bekerja secara bersamaan di dalam 1 codebase yang sama menggunakan git version control, dan beberapa fitur seperti branches, commits, pull requests, dan issue tracking.
